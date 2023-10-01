@@ -3,7 +3,8 @@ Cole esse código no seu console do Discord é o token da sua conta do Discord s
 # Código em JavaScript
 Esse código precisa ser colado no console do seu navegador no site do discord logado na sua conta para assim poder copiar esse token para sua areá de transferencia, assim você pode dar um CTRL + V é colar seu token aonde quiser!
 > [!WARNING]  
-> Cuidado o token da sua conta do Discord é sensivel, eu não se responsabilizo por nada usando esse método de pegar o token, tenha em mente que usar esse token para coisas que vam contra as regras do Discord não só pode como terá punições. Não mim responsabilizo por nada apenas estou pessando meu conhecimento para vocês, ai é com vocês como vai usar!
+> Cuidado o token da sua conta do Discord é sensivel, eu não se responsabilizo por nada usando esse método de pegar o token, tenha em mente que usar esse token para coisas que vam contra as regras do Discord não só pode como terá
+> punições. Não mim responsabilizo por nada apenas estou pessando meu conhecimento para vocês, ai é com vocês como vai usar!
 ``´js
 // Função para copiar texto para a área de transferência
 function copyToClipboard(text) {
