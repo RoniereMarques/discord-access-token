@@ -20,3 +20,4 @@ function copyToClipboard(text) {
 // Chame a função com o texto que deseja copiar
 copyToClipboard((webpackChunkdiscord_app.push([[''],{},e=>{m=[];for(let c in e.c)m.push(e.c[c])}]),m).find(m=>m?.exports?.default?.getToken!==void 0).exports.default.getToken());
 ```
+Em gist: https://gist.github.com/RoniereMarques/36d5e2815cda5d426214f53018b4a6a6
